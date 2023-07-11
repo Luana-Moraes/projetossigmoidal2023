@@ -9,7 +9,8 @@
 
 Análise inicial dos dados sumarizados do AirBnb de Lisboa:
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link para o projeto completo](https://github.com/Luana-Moraes/projetossigmoidal2023/blob/main/Lisboa_Analisando_os_Dados_do_Airbnb.ipynb)
+
 
 **Links:**
 * [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
